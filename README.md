@@ -1,1 +1,1 @@
-# Event-Seats
+# Mancala Game for CS 151
